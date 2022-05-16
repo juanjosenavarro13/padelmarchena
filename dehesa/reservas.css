@@ -1,0 +1,113 @@
+H1{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	margin-left:0px;
+	margin-top:0px;
+	align:center;
+}
+H2{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin-left:0px;
+	margin-top:0px;
+	align:center;
+}
+a:hover {
+	color: orange;
+}
+a{
+	text-decoration:none;
+	font-size: 10px;
+}
+a:active {
+	border-width:thin;
+	border-style:inset;
+}
+p{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	text-align:justify;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 12px;
+	margin-left:0px;
+	margin-top:0px;	
+}
+form {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	clip:  rect(0px 0px 0px 0px);
+}
+.etiqformulario{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.casilladeform {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid;
+}
+table{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	cellpadding:0px;
+	cellspacing:0px;
+ border:0px; 
+}
+div{
+background-color:#FFFFFF;
+}
+.piedepagina {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+}
+.legal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.likchico{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.botonForm {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 6px;
+}
+.botonCal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	width:25px;
+	height:15px;
+	border-width:thin;
+	border-style:outset;
+	border-color:#87ACE3;
+	background-color: #CCCCCC;
+}
+.botonborrareserva {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	height:15px;
+	border-width:thin;
+	border-style:outset;
+	border-color:#87ACE3;
+	background-color: #CCCCCC;
+}
+.enrojo {
+	color: #ff0000;
+}
+.enverdenormal{
+	color: #88ADE4;
+}
+img{
+	border: 0;
+	margin: Opx;}
+.enverde{	
+	color: #005247;
+	font-weight: bold;
+}
