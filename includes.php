@@ -72,7 +72,7 @@ if ($palabras_contadas==4){
 	<tr>
 		<td id='franja_izda'>&nbsp;</td>
 		
-		<td width='1100' id='contenido' align='center' valign='top'>
+		<td width='85%' id='contenido' align='center' valign='top'>
 
 <?php /* oOoOoOoOoOoOoOoOoOoO		AQUÍ EMPIEZA LA PÁGINA  oOoOoOoOoOoOoOoOoOoOoOoO */ ?>
 
